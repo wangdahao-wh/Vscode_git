@@ -1,0 +1,12 @@
+{
+    tool_target_myThread_macosx_arm64_cxx = {
+        program = "/usr/bin/xcrun -sdk macosx clang",
+        toolname = "clang",
+        toolchain_info = {
+            name = "xcode",
+            cachekey = "xcode_arch_arm64_plat_macosx",
+            plat = "macosx",
+            arch = "arm64"
+        }
+    }
+}

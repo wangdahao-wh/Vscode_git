@@ -1,0 +1,9 @@
+{
+    cmdlines = {
+        "xmake l /Users/wanghao/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/explorer.lua",
+        "xmake l /Users/wanghao/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/explorer.lua",
+        "xmake l /Users/wanghao/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/explorer.lua",
+        "xmake l /Users/wanghao/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/explorer.lua",
+        "xmake l /Users/wanghao/.vscode/extensions/tboox.xmake-vscode-1.9.2/assets/config.lua"
+    }
+}

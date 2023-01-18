@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/Users/wanghao/program/CodeForVscode/myThread",
+  "arguments": ["/usr/bin/xcrun", "-sdk", "macosx", "clang", "-c", "-Qunused-arguments", "-o", "build/.objs/myThread/macosx/arm64/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
